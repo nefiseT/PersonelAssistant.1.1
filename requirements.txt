@@ -1,0 +1,16 @@
+pyttsx3
+SpeechRecognition
+pywhatkit
+wikipedia
+pyautogui
+pygame
+pillow
+pynput
+googletrans==4.0.0-rc1
+gtts
+playsound
+requests
+beautifulsoup4
+speedtest-cli
+plyer
+wolframalpha
